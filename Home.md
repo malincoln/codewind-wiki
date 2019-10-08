@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Codewind
 
 Welcome to the Codewind Wiki. These pages are intended for those who wish to contribute to Codewind project by submitting bug reports, suggesting new enhancements, commenting on new ideas, or even by submitting pull requests.
 
