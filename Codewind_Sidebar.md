@@ -1,1 +1,1 @@
-[Place holder] a custom sidebar
+* [Home](./Home)
