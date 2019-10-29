@@ -1,1 +1,1 @@
-# [Home](https://github.com/eclipse/codewind/wiki)
+* [Home](https://github.com/eclipse/codewind/wiki)
