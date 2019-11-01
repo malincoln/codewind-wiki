@@ -6,7 +6,7 @@ Our sprint process is a two week agile sprint starting on Thursday and completin
 | Sprint | Dates |
 | ------ | ----- |
 | 20.1 | Dec 26 - Jan 8 |
-| 20.2 | Jan 10 - Jan 22 |
+| 20.2 | Jan 9 - Jan 22 |
 | 20.3 | Jan 23 - Feb 5 |
 | 20.4 | Feb 6 - Feb 19 |
 | 20.5 | Feb 20 - Mar 4 |
