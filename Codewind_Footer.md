@@ -1,1 +1,0 @@
-If you have a question or any feedback, join us on [Mattermost](https://mattermost.eclipse.org/eclipse/channels/eclipse-codewind)
