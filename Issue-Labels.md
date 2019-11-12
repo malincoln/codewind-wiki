@@ -1,4 +1,3 @@
-## Issue Labels
 The Eclipse Codewind project uses [issue labels](https://github.com/eclipse/codewind/labels) as a way to communicate status and responsibility.
 
 

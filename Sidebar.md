@@ -5,8 +5,8 @@
 * [Eclipse Codewind Project](https://projects.eclipse.org/proposals/eclipse-codewind)
 
 **Community**
-* [Conferences,Events, and Meetups](https://github.com/eclipse/codewind/wiki/Events)
-* [Community Calls](https://github.com/eclipse/codewind/wiki/Calls)
+* [Conferences,Events, and Meetups](https://github.com/eclipse/codewind/wiki/Codewind-Conferences,-Events,-and-Meetups)
+* [Community Calls](https://github.com/eclipse/codewind/wiki/Codewind-Calls)
 
 **Contributing**
 * [How to Contribute](https://github.com/eclipse/codewind#contributing)
