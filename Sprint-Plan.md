@@ -1,4 +1,3 @@
-# Sprint Plan
 Codewind sprint process is a two week agile sprint starting on Thursday and completing on Wednesday two weeks later.
 Codewind cuts a formal release every 4 weeks delivering monthly releases.
 
