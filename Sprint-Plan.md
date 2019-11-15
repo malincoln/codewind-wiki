@@ -1,4 +1,15 @@
-Our sprint process is a two week agile sprint starting on Thursday and completing on Wednesday two weeks later.
+# Sprint Plan
+Codewind sprint process is a two week agile sprint starting on Thursday and completing on Wednesday two weeks later.
+Codewind cuts a formal release every 4 weeks delivering monthly releases.
+
+### Sprint 2019 Remaining Schedule
+| Sprint | Dates |
+| ------ | ----- |
+| M23 | Oct 24 - Nov 6 |
+| M24 | Nov 7 - Nov 20 |
+| M25 | Nov 21 - Dec 4 |
+| M26 | Dec 5 - Dec 18 |
+
 
 ### Sprint 2020 Schedule
 
